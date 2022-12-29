@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "unchanged",
+  "highDPIDiagrams": true,
+  "pandoc": "/Users/Francisco/AppData/Local/Pandoc/pandoc.exe",
+  "pdflatex": "/Users/Francisco/AppData/Roaming/TinyTeX/bin/win32/xelatex.exe",
+  "outputFolder": "~GitHub/pnw_rivers-alsea/alsea_obsd_vault",
+  "extraArguments": "--resource-path ~GitHub/pnw_rivers-alsea/alsea_obsd_vault/TOOLS/Lit_review/Attrition&Transport.bib --resource-path ~GitHub/pnw_rivers-alsea/alsea_obsd_vault/TOOLS/Assets/Figs --citeproc --bibliography=\"Attrition&Transport.bib\" --pdf-engine=/Users/Francisco/AppData/Roaming/TinyTeX/bin/win32/xelatex.exe --embed-resources --standalone --metadata title = \"{{title}}\"",
+  "exportFrom": "md"
+}

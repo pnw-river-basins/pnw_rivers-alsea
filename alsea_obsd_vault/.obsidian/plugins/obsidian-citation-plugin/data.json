@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Lit_review",
+  "literatureNoteContentTemplate": "# {{title}}\n#### ({{year}}) \n- **Authors** :: {{authorString}}\n- **Link**:: {{URL}}\n- **DOI**:: {{DOI}}\n- **Links**:: \n- **Tags**:: #paper\n- **Cite Key**:: [@{{citekey}}]\n### Abstract\n\\` ` `\n{{abstract}}\n\\` ` `\n### Notes\n{{note}}\n\n\n",
+  "markdownCitationTemplate": "@{{citekey}}",
+  "alternativeMarkdownCitationTemplate": "[@{{citekey}}]",
+  "citationExportPath": "C:/Users/Francisco/Documents/GitHub/pnw_rivers-alsea/alsea_obsd_vault/TOOLS/Lit_review/Attrition&Transport.bib"
+}
