@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/Lit_review/Fluvial Organic Carbon and Sorting.md",
+                "file": "TOOLS/Lit_review/Test Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/Lit_review/Fluvial Organic Carbon and Sorting.md",
+                "file": "TOOLS/Lit_review/Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/Lit_review/Fluvial Organic Carbon and Sorting.md"
+                "file": "TOOLS/Lit_review/Test Note.md"
               }
             }
           },
@@ -150,20 +150,21 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes": false
+      "publish:Publish changes": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "caa4c08e667fb9cb",
   "lastOpenFiles": [
-    "TOOLS/Workflows/Exporting Notes as markdown files.md",
-    "TOOLS/Lit_review/Fluvial Organic Carbon and Sorting.md",
-    "TOOLS/Lit_review/Fluvial-Organic-Carbon-and-Sorting.pdf",
     "TOOLS/Lit_review/Lit_review.md",
+    "TOOLS/Workflows/Exporting Notes as markdown files.md",
+    "TOOLS/TOOLS.md",
+    "TOOLS/Lit_review/Untitled.md",
+    "Excalidraw/Drawing 2023-01-02 21.31.12.excalidraw.md",
+    "TOOLS/Lit_review/Fluvial Organic Carbon and Sorting.md",
     "TOOLS/Templates/Templates.md",
-    "TOOLS/Workflows/Workflows.md",
-    "PEOPLE/Francisco J. Guerrero/Francisco J. Guerrero.md",
-    "TOOLS/Templates/Contribution log/Contribution log.md",
-    "TOOLS/Templates/Conversation Tracker/Conversation Tracker.md",
-    "TOOLS/Templates/Contribution log.md"
+    "TOOLS/Lit_review/Test Note.md",
+    "TOOLS/Lit_review/Fluvial-Organic-Carbon-and-Sorting.pdf",
+    "TOOLS/Workflows/Workflows.md"
   ]
 }

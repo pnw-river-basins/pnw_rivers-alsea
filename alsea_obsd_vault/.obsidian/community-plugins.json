@@ -7,5 +7,7 @@
   "obsidian-link-converter",
   "obsidian-enhancing-export",
   "obsidian-pandoc",
-  "obsidian-pandoc-reference-list"
+  "obsidian-pandoc-reference-list",
+  "obsidian-excalidraw-plugin",
+  "obsidian-markdown-export-plugin"
 ]
